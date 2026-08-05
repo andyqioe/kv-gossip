@@ -31,4 +31,3 @@ propagates to the other via gossip.
 - `main.py` — the implementation
 - `test_harness.py` — two-node convergence sanity check
 - `learnings.md` — design reasoning and the bugs worked through
-- `_solution.py` — a reference implementation, for comparison
